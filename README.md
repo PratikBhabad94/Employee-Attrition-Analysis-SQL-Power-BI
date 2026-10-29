@@ -32,7 +32,7 @@ as salary, job role, experience, education field, and demographics. Through inte
 
 · Sales & HR are crisis zones: They have the highest attrition rates (20.63% and 19.05%).
 
-· Low satisfaction is a dealbreaker: Attrition rate jumps to 22.55% when job satisfaction is level 1.
+· Low satisfaction is a dealbreaker: Attrition rate jumps to 22.8% when job satisfaction is level 1.
 
 · Pay is a baseline, not a solution: Most attrition happens in the lowest salary band.
 
