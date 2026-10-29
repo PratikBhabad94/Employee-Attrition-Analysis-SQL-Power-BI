@@ -30,7 +30,7 @@ as salary, job role, experience, education field, and demographics. Through inte
 
 # Key HR Takeaways for Retention Strategy
 
-· Sales & HR are crisis zones: They have the highest attrition rates (20.74% and 19.35%).
+· Sales & HR are crisis zones: They have the highest attrition rates (20.63% and 19.05%).
 
 · Low satisfaction is a dealbreaker: Attrition rate jumps to 22.55% when job satisfaction is level 1.
 
